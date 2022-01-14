@@ -3,11 +3,21 @@
 ## Overview of Election Audit
 A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election.
 
-1. Calculate the total number of votes cast.
+#### Candidate Results
+
+1. Calculate the total number of votes cast in the election.
 2. Get a complete list of candidate who recieved votes.
-3. Calculate the total number of votes each candidate recieved.
+3. Calculate the total number of votes, and percentage of votes each candidate recieved.
 4. Calculate percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+5. Determine the winner of the election based on popular vote, winning vote count, and winning percentage of votes.
+
+### County Results
+
+1. Calculate the total number of votes cast in the election.
+2. Get a complete list of county and its total vote count.
+3. Calculate the total number of votes, and percentage of votes each county recieved.
+4. Calculate percentage of votes each county recieved.
+5. Determine the county with the largest number of voters
 
 ### Resources
 - Data Source: election_results.csv
