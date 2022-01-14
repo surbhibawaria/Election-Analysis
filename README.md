@@ -25,32 +25,34 @@ A Colorado Board of Elections employee has given the following tasks to complete
 
 ## Election-Audit Results
 
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?The analysis of the election show that:
-
+The analysis of the election show that:
 
 - There were 369711 votes cast in this congressional election.
+
 - The counties were:
     - Jefferson
     - Denver
     - Arapahoe
+
 - The county's result were:
     - Jefferson recieved 10.5% of the vote and 38,885 number of votes.
     - Denver recieved 82.8% of the vote and 306,055 number of votes.
     - Arapahoe recieved 6.7% of the vote and 24,801 number of votes.
-    -  
+
+- The county with the largest number of votes was:
+    - Denver, which recieved 82.8% of the vote and 306, 055 number of votes.
+     
 - The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Rymon Anthony Doane
+
 - The candidate's result were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
-    - Candidate 2 recieved "x%" of the vote and "y" number of votes.
-    - Candidate 3 recieved "x%" of the vote and "y" number of votes.
+    - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+    - Diana DeGette 73.8% of the vote and 272,892 number of votes.
+    - Rymon Anthony Doane recieved 3.1% of the vote and 11,606 number of votes.
+
 - The winner of the election was:
-    - Candidate (1, 2, or 3), who recieved "x%" of the vote and "y" number of votes.
+    - Diana DeGette, who recieved 73.8% of the vote and 272,892 number of votes.
  
 ## Election-Audit Summary
