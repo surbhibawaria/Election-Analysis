@@ -24,7 +24,14 @@ A Colorado Board of Elections employee has given the following tasks to complete
 - Software: Python 3.10.1, Visual Studio Code, 1.63.2
 
 ## Election-Audit Results
-The analysis of the election show that:
+
+How many votes were cast in this congressional election?
+Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+Which county had the largest number of votes?
+Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+Which candidate won the election, what was their vote count, and what was their percentage of the total votes?The analysis of the election show that:
+
+
 - There were "x" votes cast in the election.
 - The candidates were:
     - Candidate 1
