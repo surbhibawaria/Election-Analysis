@@ -32,7 +32,16 @@ Provide a breakdown of the number of votes and the percentage of the total votes
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?The analysis of the election show that:
 
 
-- There were "x" votes cast in the election.
+- There were 369711 votes cast in this congressional election.
+- The counties were:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The county's result were:
+    - Jefferson recieved 10.5% of the vote and 38,885 number of votes.
+    - Denver recieved 82.8% of the vote and 306,055 number of votes.
+    - Arapahoe recieved 6.7% of the vote and 24,801 number of votes.
+    -  
 - The candidates were:
     - Candidate 1
     - Candidate 2
