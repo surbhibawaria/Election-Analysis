@@ -29,7 +29,7 @@ The analysis of the election show that:
 
 <img width="398" alt="Election _Analysis" src="https://user-images.githubusercontent.com/95826875/149589023-02c0440e-adba-4dc1-a13f-7e506504a586.png">
 
-- There were 369711 votes cast in this congressional election.
+- There were 369,711 votes cast in this congressional election.
 
 <img width="487" alt="Total_votes" src="https://user-images.githubusercontent.com/95826875/149606630-ce76b344-91ae-4a84-aa37-1a14fa0ab9b3.png">
 
