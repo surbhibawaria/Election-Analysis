@@ -17,7 +17,7 @@ A Colorado Board of Elections employee has given the following tasks to complete
 2. Get a complete list of county and its total vote count.
 3. Calculate the total number of votes, and percentage of votes each county recieved.
 4. Calculate percentage of votes each county recieved.
-5. Determine the county with the largest number of voters
+5. Determine the county with the largest number of votes.
 
 ### Resources
 - Data Source: election_results.csv
