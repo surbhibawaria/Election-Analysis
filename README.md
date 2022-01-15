@@ -39,7 +39,7 @@ The analysis of the election show that:
     - Arapahoe
 
 - The county's result were:
-    - Jefferson recieved 10.5% of the vote and 38,885 number of votes.
+    - Jefferson recieved 10.5% of the vote and 38,855 number of votes.
     - Denver recieved 82.8% of the vote and 306,055 number of votes.
     - Arapahoe recieved 6.7% of the vote and 24,801 number of votes.
 
