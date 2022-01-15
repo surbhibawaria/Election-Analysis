@@ -68,4 +68,4 @@ The analysis of the election show that:
 This script is so versatile that it can be further used for any election analysis. The business proposal to the election commission would be to use this script for any election with some modifications needed as per the requirement. For instance, this script can be modified to be used for other elections in following ways:
 
 1. The script can be further modified to filter results based on features like Ballot ID, Demographics etc.
-2. 
+2. The script can be used modified for different types of elections like general elections, primary elections, special elections, presidential elections and electoral college elections. 
