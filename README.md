@@ -64,3 +64,5 @@ The analysis of the election show that:
     <img width="588" alt="Candidate_results" src="https://user-images.githubusercontent.com/95826875/149606946-ce5ae480-a48f-46de-a3ae-375a660e9593.png">
 
 ## Election-Audit Summary
+
+This script is so versatile that it can be further used for any election analysis. The business proposal to the election commission would be to use this script for any election with some modifications needed as per the requirement. For instance, this script can be modified to be used for other elections in following ways:
