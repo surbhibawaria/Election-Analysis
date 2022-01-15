@@ -27,7 +27,11 @@ A Colorado Board of Elections employee has given the following tasks to complete
 
 The analysis of the election show that:
 
+<img width="398" alt="Election _Analysis" src="https://user-images.githubusercontent.com/95826875/149589023-02c0440e-adba-4dc1-a13f-7e506504a586.png">
+
 - There were 369711 votes cast in this congressional election.
+
+<img width="487" alt="Total_votes" src="https://user-images.githubusercontent.com/95826875/149606630-ce76b344-91ae-4a84-aa37-1a14fa0ab9b3.png">
 
 - The counties were:
     - Jefferson
@@ -41,7 +45,9 @@ The analysis of the election show that:
 
 - The county with the largest number of votes was:
     - Denver, which recieved 82.8% of the vote and 306, 055 number of votes.
-     
+
+<img width="810" alt="County_results" src="https://user-images.githubusercontent.com/95826875/149606816-cd94deb5-48b5-45d5-ad29-f13f9dea5080.png">
+    
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
@@ -54,8 +60,7 @@ The analysis of the election show that:
 
 - The winner of the election was:
     - Diana DeGette, who recieved 73.8% of the vote and 272,892 number of votes.
-
-
-<img width="398" alt="Election _Analysis" src="https://user-images.githubusercontent.com/95826875/149589023-02c0440e-adba-4dc1-a13f-7e506504a586.png">
+    
+    <img width="588" alt="Candidate_results" src="https://user-images.githubusercontent.com/95826875/149606946-ce5ae480-a48f-46de-a3ae-375a660e9593.png">
 
 ## Election-Audit Summary
