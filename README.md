@@ -69,4 +69,4 @@ This script is so versatile that it can be further used for any election analysi
 
 1. The script can be further modified to filter the results based on voting methods like Mail-in Ballot, Punch Cards and Direct Recording Electroning for each candidate or county to gather number of votes cast through each respective method.
 
-2. Another way can be to modify the code taking into account features like ballot ID, demographics, and different types of elections like general elections, primary elections, special elections, presidential elections and electoral college elections. 
+2. The script can also be modified taking into account features like ballot ID, demographics, etc. Another way the script can be modified for different types of elections like general elections, primary elections, special elections, presidential elections and electoral college elections. 
